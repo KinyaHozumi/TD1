@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Develop" />
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="TD1.vcxproj" Id="138d7d44-a6ab-4d3f-ba99-b21b8307ccd6" />
+</Solution>
